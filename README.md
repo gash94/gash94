@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning JavaScript programming
 - 💬 Ask me about everything ;)
-- 📫 How to reach me: [here](https://github.com/gash94/anuraghazra/issues)
+- 📫 How to reach me: [here](https://github.com/gash94/issues)
 
 ## My stack and tools
 
