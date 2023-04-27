@@ -22,4 +22,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gash94&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![](https://visitcount.itsvg.in/api?id=gash94&label=Profile%20Views&color=0&icon=1&pretty=true)](https://visitcount.itsvg.in)
+
 
