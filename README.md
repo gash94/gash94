@@ -1,6 +1,6 @@
 # Hi there, I'm Gash94 👋
 
-### - 🌱 I’m currently learning JavaScript programming
+### - 🌱 I’m currently learning node.js
 ### - 💬 Ask me about everything ;)
 ### - 📫 How to reach me: [here](https://github.com/gash94/gash94/issues)
 ### - ⚡ Fun fact: I don't like tomatoes, but my favorite soup is tomato soup
